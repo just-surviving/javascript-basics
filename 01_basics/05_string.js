@@ -27,7 +27,7 @@ const newStringOne = "  abhinav  "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = = "https://hitesh.com/hitesh%20choudhary"
+const url =  "https://hitesh.com/hitesh%20choudhary"
 console.log(url.replace('%20', '-'));
 
 console.log(url.includes('siunder'));
